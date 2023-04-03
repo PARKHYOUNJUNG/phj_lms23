@@ -6,7 +6,7 @@
 - 변수, 자료형(int, float, string, boolean)
    - 변수란, 바구니다.
    - 파이썬의 기본 자료형에는 int, float, string, boolean이 있다.
-   - [CODE](https://github.com/zzhining/stock_market_analysis/blob/main/1%EC%A3%BC%EC%B0%A8/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B8%B0%EC%B4%88_%EC%9E%90%EB%A3%8C%ED%98%95.ipynb)
+   - [CODE](https://github.com/PARKHYOUNJUNG/phj_lms23/commit/0d48af3e2a1a6bebc7dac4f608c038679dc720f1)
 
 - [list], (tuple), {set}, {dictionary:value}
 - if, elif, else
